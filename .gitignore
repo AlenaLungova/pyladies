@@ -1,0 +1,5 @@
+Autofile.tmp.txt
+obrazek.ps
+poznamky.txt
+*.tmp
+/venv/*
