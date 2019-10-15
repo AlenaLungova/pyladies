@@ -1,4 +1,4 @@
-Python: Prvni slova
+Prvni slova
 
 hello world 1
 hello world 2
