@@ -1,4 +1,4 @@
-
+ukol lekce 5
 pet_names = {"Aki": "dog", "Monty": "pigeon", "Franta": "pig", "Jitka": "rabbit", "Bob": "spider"}
 
 # Modify one of the values in your dictionary. You could clarify to name a breed, or you could change an animal from a cat to a dog.

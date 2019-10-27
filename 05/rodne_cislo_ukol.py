@@ -1,3 +1,4 @@
+#ukol lekce 5
 rodne_cislo = input("Rodne cislo: ")
 
 jedenacti = rodne_cislo[:6] + rodne_cislo[7:]
